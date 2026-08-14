@@ -94,7 +94,7 @@ header {
     height: 85vh;
     width: 100%;
     background: linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.8) 100%), 
-                url(pic/KISS_ME_TOMORROW.JPEG) center/cover no-repeat;
+                url(../PIC/KISS_ME_TOMORROW.JPEG) center/cover no-repeat;
     display: flex;
     align-items: center;
     padding: 0 60px;
